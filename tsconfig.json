@@ -1,0 +1,12 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": true,
+        "noImplicitAny": true,
+        "target": "es2015",
+        "module": "es6"
+    },
+    "files":[
+        "src/*.ts"
+    ]
+}
